@@ -1,0 +1,8 @@
+[Activity]
+name = PitiviJAM
+activity_version = 1
+service_name = org.laptop.PitiviJAM
+show_launcher = yes
+icon = activity-log
+class = PitiviActivity.PitiviActivity
+license = GPLv2+
